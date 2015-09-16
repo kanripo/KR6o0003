@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 因明入正理論
+#+DATE: 2015-08-30 20:59:10.352357
+#+PROPERTY: JUAN 0
